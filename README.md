@@ -1,9 +1,13 @@
 # Project Matthias: An Experience in Empathy and Expectation
 ### by Pia Medina, Joe Giuffre, Ayodeji Ige, Claire Quong, Kuil Schoneveld, Thomas Stroyan 
 
+#### Current State
+< In Progress...>
+
+
 #### How to use?
 
-Download matt.html and open it using a browser (Chrome is prefered)
+Download matt.html and open it using a browser (Chrome is preferred)
 
 #### Description
 
