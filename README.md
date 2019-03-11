@@ -1,7 +1,11 @@
 # Project Matthias: An Experience in Empathy and Expectation
 ### by Pia Medina, Joe Giuffre, Ayodeji Ige, Claire Quong, Kuil Schoneveld, Thomas Stroyan 
 
+#### How to use?
 
+Download matt.html and open it using a browser (Chrome is prefered)
+
+#### Description
 
 Project Matthias, is a computer who has been frozen in time in a room in the Balsillie School of International Affairs. To a viewing visitor to the ARTS 490 AI Conference Matt is bored and just wants to chat. This is the setup for our installation, a full-room experience in which each element is catered to visually stimulate an emotional response in a guest, with the goal of grounding it in a period that the visitor would not associate with Artificial Intelligence. Similarly to what Mimi Onuoha describes in catching expectations off guard to appear less threatening to a viewer, Matt will take the form of an antiquated piece of technology inviting the visitor to take a seat. David Jones has discussed the mental image that is often associated with AI; all forms of hyper-advanced robots that the common guest would expect and our idea is to disarm the audience with the stark opposite.
 
