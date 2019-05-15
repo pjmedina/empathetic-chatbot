@@ -10,4 +10,5 @@ In the room filled with the technology and cultural artifacts of our selected er
 Project Matthias seeks to explore the human tendency to anthropomorphize everything they interact with regularly, including their technology. Siri and Cortana are designed to emulate human, female voices, but can this account for when the owner of an iPhone or Surface PC thanks its assistant for asking questions, or giggling at its automated responses to pleasantries? Matt is going to be designed to communicate with human expressions and words and build empathy with the viewer. On a controlled and monitored cycle, Project Matthias will focus its time and effort on building this relationship and determine whether the crowd appears more or less responsive to different levels of empathy in conversation.
 
 
-/Users/piamedina/Documents/1 Waterloo/4B/ARTS 490/c016856-190404-uw-bsia-summit-4538.jpg
+![c016856-190404-uw-bsia-summit-4538](https://user-images.githubusercontent.com/32083332/57806123-7ebb9600-772c-11e9-8fe8-bd4c28ae484d.jpg)
+
